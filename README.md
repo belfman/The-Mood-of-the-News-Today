@@ -1,5 +1,5 @@
 # What is the Mood of the News today?
-<div style="width:50%">![](images/Mood_of_News_scatter.png "lots of dots")
+![](images/Mood_of_News_scatter.png "lots of dots") <!-- .element height="20%" width="20%" -->
 ### Task:
 For this project I chose to run a sentiment analysis on 12 news related Twitter accounts in order to check the mood of the news. Twleve news sites were split into 3 catagories and 75 tweets from each were pulled for a total of 900 data points. I chose 4 US news sites, 4 international sites, and 4 tabloids (just for fun).
 
