@@ -1,5 +1,5 @@
 # What is the Mood of the News today?
-<img align="top" src="images/Mood_of_News_scatter.png" width="400" > <img align="top" src="images/Mood_of_News_bar.png" width="300" > <img src="images/legend_colors.PNG" width="80" >
+<img align="top" src="images/Mood_of_News_scatter.png" width="450" > <img align="top" src="images/Mood_of_News_bar.png" width="325" > <img src="images/legend_colors.PNG" width="70" >
 ### Task:
 For this project I chose to run a sentiment analysis on 12 news related Twitter accounts in order to check the mood of the news. Twelve news sites were split into 3 catagories and 75 tweets from each were pulled for a total of 900 data points. I chose 4 US news sites, 4 international sites, and 4 tabloids (just for fun).
 
@@ -16,7 +16,7 @@ Using a variety of Python modules I was able to seek out current tweets using AP
 
 * _snippet of for loop code and snippet of DataFrame_
 
-<img src="images/forloop.PNG" width="400" > <img src="images/DFsample.PNG" width="500" >
+<img src="images/forloop.PNG" width="600" > <img src="images/DFsample.PNG" width="700" >
 
 ### Analysis:
 I checked the mood on 8-23-18 (graph above) and on 8-26-18 (graph below), both days at roughly 6:30 pm PST, and both sets of results showed US news trending negative, international trending positive, and the tabloids trending mostly neutral except for @NatEnquirer which was very negative on both days (I guess men pregnant with bat babies gets a low score). To get a more in depth (and meaningful) result from this excersise I could check the Mood of the News over a week, or month.
